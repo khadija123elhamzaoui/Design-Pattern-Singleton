@@ -1,8 +1,8 @@
 public class Client {
-
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		Terre t1=Terre.getInstance();
+		Terre t2=Terre.getInstance();
+		Terre t3=Terre.getInstance();
 	}
 
 }
